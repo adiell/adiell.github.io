@@ -4,7 +4,9 @@
 
 layout: home
 ---
-test?
+Hello friends, welcome to my github pages.
 
-Test!
+I actually decided to go with [fastpages](https://github.com/fastai/fastpages) to write posts, but since it doesn't supports user pages you can find it [here](https://adiell.github.io/fp-blog/).
+
+You can play with a silly app to detect covid-19 in images [here](https://young-castle-22958.herokuapp.com/).
 
